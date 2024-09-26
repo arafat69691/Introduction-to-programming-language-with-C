@@ -1,0 +1,1 @@
+    printf("output :%s\n",n);
