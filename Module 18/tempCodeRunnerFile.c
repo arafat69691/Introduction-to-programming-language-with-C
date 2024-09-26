@@ -1,0 +1,9 @@
+if(i==j){
+                if(ar[i][j]!=1){
+                    flag=0;
+                }
+             continue;
+            }
+            if(ar[i][j]!=0){
+                flag=0;
+            }
